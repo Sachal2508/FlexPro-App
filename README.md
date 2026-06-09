@@ -11,7 +11,7 @@ FlexPro is a Flutter app for FAST NUCES students that makes the Flex experience 
 </p>
 
 <p align="center">
-	<img src="assets/logo.jpg" alt="FlexPro logo" width="140" />
+	<img src="FP logo.jpg" alt="FlexPro logo" width="140" />
 </p>
 
 ## What FlexPro Does
